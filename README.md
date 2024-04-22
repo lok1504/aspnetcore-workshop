@@ -1,6 +1,6 @@
-# ASP.NET Core Workshop Repository
+ASP.NET Core 3.0 Workshop
 
-This repository is meant for the purpose of attending the **ASP.NET Core workshop** by **Miroslav Popovic**.
+This repository is meant for the purpose of attending the **ASP.NET Core 3.0 Workshop** by **Miroslav Popovic**.
 
 ## Workshop Details
 - **Workshop Title**: ASP.NET Core Workshop
